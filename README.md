@@ -1,4 +1,4 @@
-[![STM32 Build](https://github.com/smartfactoryrepo/qubip-mqtt-client-mbedtls1v3/actions/workflows/build.yml/badge.svg)](https://github.com/smartfactoryrepo/qubip-mqtt-client-mbedtls1v3/actions/workflows/build.yml)
+[![STM32 Build](https://github.com/QUBIP/qubip-mqtt-client-mbedtls1v3/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/QUBIP/qubip-mqtt-client-mbedtls1v3/actions/workflows/build.yml)
 
 # MQTT Client Example with TLS 1.3 Encryption on NUCLEO-F429ZI
 
